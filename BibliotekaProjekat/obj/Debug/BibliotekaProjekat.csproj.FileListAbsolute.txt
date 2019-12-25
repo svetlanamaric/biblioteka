@@ -1,0 +1,13 @@
+C:\Users\Ceca\Downloads\BibliotekaProjekat\BibliotekaProjekat\BibliotekaProjekat\bin\Debug\BibliotekaProjekat.exe.config
+C:\Users\Ceca\Downloads\BibliotekaProjekat\BibliotekaProjekat\BibliotekaProjekat\bin\Debug\BibliotekaProjekat.exe
+C:\Users\Ceca\Downloads\BibliotekaProjekat\BibliotekaProjekat\BibliotekaProjekat\bin\Debug\BibliotekaProjekat.pdb
+C:\Users\Ceca\Downloads\BibliotekaProjekat\BibliotekaProjekat\BibliotekaProjekat\obj\Debug\BibliotekaProjekat.csprojAssemblyReference.cache
+C:\Users\Ceca\Downloads\BibliotekaProjekat\BibliotekaProjekat\BibliotekaProjekat\obj\Debug\BibliotekaProjekat.FormaClanovi.resources
+C:\Users\Ceca\Downloads\BibliotekaProjekat\BibliotekaProjekat\BibliotekaProjekat\obj\Debug\BibliotekaProjekat.FormaKnjige.resources
+C:\Users\Ceca\Downloads\BibliotekaProjekat\BibliotekaProjekat\BibliotekaProjekat\obj\Debug\BibliotekaProjekat.PocetnaForma.resources
+C:\Users\Ceca\Downloads\BibliotekaProjekat\BibliotekaProjekat\BibliotekaProjekat\obj\Debug\BibliotekaProjekat.Properties.Resources.resources
+C:\Users\Ceca\Downloads\BibliotekaProjekat\BibliotekaProjekat\BibliotekaProjekat\obj\Debug\BibliotekaProjekat.IzdavanjeForma.resources
+C:\Users\Ceca\Downloads\BibliotekaProjekat\BibliotekaProjekat\BibliotekaProjekat\obj\Debug\BibliotekaProjekat.IzdateKnjigeForm.resources
+C:\Users\Ceca\Downloads\BibliotekaProjekat\BibliotekaProjekat\BibliotekaProjekat\obj\Debug\BibliotekaProjekat.csproj.GenerateResource.cache
+C:\Users\Ceca\Downloads\BibliotekaProjekat\BibliotekaProjekat\BibliotekaProjekat\obj\Debug\BibliotekaProjekat.exe
+C:\Users\Ceca\Downloads\BibliotekaProjekat\BibliotekaProjekat\BibliotekaProjekat\obj\Debug\BibliotekaProjekat.pdb
